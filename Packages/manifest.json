@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.soulshardstudios.soulshardutilities": "https://github.com/SoulShardStudios/SoulShardUtilities.git",
     "com.unity.2d.animation": "5.2.4",
     "com.unity.2d.pixel-perfect": "4.0.1",
     "com.unity.2d.psdimporter": "4.3.1",
